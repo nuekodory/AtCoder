@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e24e45-d1c5-48f2-9cdf-697333180f65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AtCoder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC121/white_cells.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC129/balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC129/flying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC129/stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC131/bite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC131/division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC131/megalo_mania.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC131/rect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC131/security.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABS/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diverta2019_2/ball_dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diverta2019_2/merchant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diverta2019_2/subtraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paiza/sens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paiza/sensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AtCoder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AtCoder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,54 +28,85 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AtCoder$white_cells.coverage" NAME="white_cells Coverage Results" MODIFIED="1552135193871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/AtCoder$white_cells.coverage" NAME="white_cells Coverage Results" MODIFIED="1552369270598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/AtCoder$playground.coverage" NAME="playground Coverage Results" MODIFIED="1552135012235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC117/exam.py">
+        <entry file="file://$PROJECT_DIR$/ABC128/switches.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="342">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABC131/security.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABC131/bite.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABC131/division.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABC131/megalo_mania.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ABC117/polygon.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC121/white_cells.py">
+        <entry file="file://$PROJECT_DIR$/paiza/sens.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AGC026/colorful_slime.py">
+        <entry file="file://$PROJECT_DIR$/paiza/sensor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="25" selection-end-column="18" />
+            <state relative-caret-position="420">
+              <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_template_atcoder.py">
+        <entry file="file://$PROJECT_DIR$/ABC131/rect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="403">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AGC026/subseq.py">
+        <entry file="file://$PROJECT_DIR$/paiza/1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/paiza/4.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -84,7 +128,6 @@
         <option value="$PROJECT_DIR$/playground.py" />
         <option value="$PROJECT_DIR$/_template_atcoder.py" />
         <option value="$PROJECT_DIR$/crossing.py" />
-        <option value="$PROJECT_DIR$/ABC117/exam.py" />
         <option value="$PROJECT_DIR$/ABC117/polygon.py" />
         <option value="$PROJECT_DIR$/ABC117/stream_line.py" />
         <option value="$PROJECT_DIR$/ABC117/xxor.py" />
@@ -93,14 +136,46 @@
         <option value="$PROJECT_DIR$/minpro2019/pocket.py" />
         <option value="$PROJECT_DIR$/ABC121.py" />
         <option value="$PROJECT_DIR$/ABC121/white_cells.py" />
+        <option value="$PROJECT_DIR$/ABC117/exam.py" />
+        <option value="$PROJECT_DIR$/run_sunuke.py" />
+        <option value="$PROJECT_DIR$/tower.py" />
+        <option value="$PROJECT_DIR$/Exawizards2019.py" />
+        <option value="$PROJECT_DIR$/Ex2019/triangle.py" />
+        <option value="$PROJECT_DIR$/Ex2019/cap.py" />
+        <option value="$PROJECT_DIR$/Ex2019/modulo.py" />
+        <option value="$PROJECT_DIR$/Ex2019/sunuke_alt.py" />
+        <option value="$PROJECT_DIR$/yay/present.py" />
+        <option value="$PROJECT_DIR$/venv/ab_string.py" />
+        <option value="$PROJECT_DIR$/yay/balls.py" />
+        <option value="$PROJECT_DIR$/Ex2019/sunuke.py" />
+        <option value="$PROJECT_DIR$/yay/ab_string.py" />
+        <option value="$PROJECT_DIR$/yay/fav.py" />
+        <option value="$PROJECT_DIR$/ABC128/ringo.py" />
+        <option value="$PROJECT_DIR$/ABC128/restaurant.py" />
+        <option value="$PROJECT_DIR$/ABC128/switches.py" />
+        <option value="$PROJECT_DIR$/ABC129/flying.py" />
+        <option value="$PROJECT_DIR$/ABC129/balance.py" />
+        <option value="$PROJECT_DIR$/ABC129/stairs.py" />
+        <option value="$PROJECT_DIR$/ABS.py" />
+        <option value="$PROJECT_DIR$/ABS/product.py" />
+        <option value="$PROJECT_DIR$/diverta2019_2/ball_dist.py" />
+        <option value="$PROJECT_DIR$/diverta2019_2/merchant.py" />
+        <option value="$PROJECT_DIR$/diverta2019_2/subtraction.py" />
+        <option value="$PROJECT_DIR$/paiza/sensor.py" />
+        <option value="$PROJECT_DIR$/paiza/sens.py" />
+        <option value="$PROJECT_DIR$/ABC131/security.py" />
+        <option value="$PROJECT_DIR$/ABC131/bite.py" />
+        <option value="$PROJECT_DIR$/ABC131/division.py" />
+        <option value="$PROJECT_DIR$/ABC131/megalo_mania.py" />
+        <option value="$PROJECT_DIR$/ABC131/rect.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="980" />
+    <option name="x" value="210" />
+    <option name="y" value="111" />
+    <option name="width" value="1477" />
+    <option name="height" value="939" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -110,6 +185,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,32 +196,38 @@
             <path>
               <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC117" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC131" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC121" type="462c0819:PsiDirectoryNode" />
+              <item name="paiza" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="minpro2019" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="yay" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -156,6 +238,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/yay" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -172,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.white_cells">
+  <component name="RunManager" selected="Python._template_atcoder">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="white_cells" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="white_cells" type="PythonConfigurationType" factoryName="Python">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,11 +328,6 @@
       <item itemvalue="Python._template_atcoder" />
       <item itemvalue="Python.white_cells" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.white_cells" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -266,21 +346,32 @@
       <workItem from="1549201798738" duration="8284000" />
       <workItem from="1549714246526" duration="5272000" />
       <workItem from="1552134895981" duration="2943000" />
+      <workItem from="1552368587763" duration="748000" />
+      <workItem from="1552372043175" duration="94000" />
+      <workItem from="1552372149768" duration="468000" />
+      <workItem from="1552396791944" duration="258000" />
+      <workItem from="1553947103688" duration="6411000" />
+      <workItem from="1557572503263" duration="7091000" />
+      <workItem from="1558871991977" duration="3153000" />
+      <workItem from="1560080729144" duration="8140000" />
+      <workItem from="1560598327803" duration="16264000" />
+      <workItem from="1561107290584" duration="6301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23794000" />
+    <option name="totallyTimeSpent" value="72722000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1680" height="980" extended-state="0" />
+    <frame x="210" y="111" width="1477" height="939" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1941392" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2508711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7393162" weight="0.32882884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.73870575" weight="0.32846716" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -288,9 +379,11 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.26068377" side_tool="true" visible="true" weight="0.32882884" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.26129428" side_tool="true" weight="0.32882884" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.329927" />
+      <window_info anchor="bottom" id="Pylint" order="13" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" visible="true" weight="0.32995495" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -305,23 +398,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AtCoder$playground.coverage" NAME="playground Coverage Results" MODIFIED="1549195534680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$_template_atcoder.coverage" NAME="_template_atcoder Coverage Results" MODIFIED="1558873968463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/uuid.py" />
-    <entry file="file://$PROJECT_DIR$/crossing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playground.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/placing_marbles.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -331,20 +410,10 @@
     <entry file="file://$PROJECT_DIR$/AGC026/rng_10s.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ARC100/c.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABC104/accepted.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC104/all_green.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -376,12 +445,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC117/exam.py">
+    <entry file="file://$PROJECT_DIR$/ABC121.py" />
+    <entry file="file://$PROJECT_DIR$/ABC117/stream_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC104/all_green.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC117/exam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exawizards2019.py" />
+    <entry file="file://$PROJECT_DIR$/run_sunuke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC117/polygon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex2019/triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex2019/cap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC121/white_cells.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/AGC026/colorful_slime.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -400,25 +530,181 @@
     <entry file="file://$PROJECT_DIR$/AGC026/subseq.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC121.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Ex2019/sunuke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC121/white_cells.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/yay/present.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC117/stream_line.py">
+    <entry file="file://$PROJECT_DIR$/yay/balls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="20" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yay/fav.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC117/polygon.py">
+    <entry file="file://$PROJECT_DIR$/Ex2019/sunuke_alt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABS.py" />
+    <entry file="file://$PROJECT_DIR$/yay/ab_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC128/ringo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC128/restaurant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC129/stairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABS/product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC129/flying.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC129/balance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diverta2019_2/merchant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ARC100/c.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex2019/modulo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diverta2019_2/subtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="62" column="44" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC128/switches.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC131/security.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC131/bite.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC131/division.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC131/megalo_mania.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diverta2019_2/ball_dist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC131/rect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paiza/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paiza/4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paiza/sensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paiza/sens.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

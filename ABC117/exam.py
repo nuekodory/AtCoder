@@ -8,3 +8,4 @@ speed = int(divided[0])
 time = int(divided[1])
 
 print(speed / time)
+

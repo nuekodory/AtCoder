@@ -11,10 +11,9 @@ sunuke_list = []
 for i in reversed(range(1, 10 ** 15)):
     div_sunuke = i / sunuke_sum(str(i))
     if div_sunuke < current_min:
-        print(f"found: {i}")
         current_min = div_sunuke
         sunuke_list.append(i)
     else:
-        print(f" pass: {i}")
+        pass
 
 print(sunuke_list)
