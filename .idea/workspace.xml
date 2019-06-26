@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e24e45-d1c5-48f2-9cdf-697333180f65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ABC129/balance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC129/flying.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC129/stairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC131/bite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC131/division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC131/megalo_mania.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC131/rect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC131/security.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABS/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diverta2019_2/ball_dist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diverta2019_2/merchant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diverta2019_2/subtraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paiza/sens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paiza/sensor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AtCoder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AtCoder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,85 +15,7 @@
     <SUITE FILE_PATH="coverage/AtCoder$playground.coverage" NAME="playground Coverage Results" MODIFIED="1552135012235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC128/switches.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC131/security.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC131/bite.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC131/division.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC131/megalo_mania.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/paiza/sens.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/paiza/sensor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC131/rect.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/paiza/1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/paiza/4.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -163,11 +68,11 @@
         <option value="$PROJECT_DIR$/diverta2019_2/subtraction.py" />
         <option value="$PROJECT_DIR$/paiza/sensor.py" />
         <option value="$PROJECT_DIR$/paiza/sens.py" />
-        <option value="$PROJECT_DIR$/ABC131/security.py" />
         <option value="$PROJECT_DIR$/ABC131/bite.py" />
         <option value="$PROJECT_DIR$/ABC131/division.py" />
         <option value="$PROJECT_DIR$/ABC131/megalo_mania.py" />
         <option value="$PROJECT_DIR$/ABC131/rect.py" />
+        <option value="$PROJECT_DIR$/ABC131/security.py" />
       </list>
     </option>
   </component>
@@ -196,22 +101,7 @@
             <path>
               <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC131" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="paiza" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="yay" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -355,18 +245,18 @@
       <workItem from="1558871991977" duration="3153000" />
       <workItem from="1560080729144" duration="8140000" />
       <workItem from="1560598327803" duration="16264000" />
-      <workItem from="1561107290584" duration="6301000" />
+      <workItem from="1561107290584" duration="6792000" />
+      <workItem from="1561526196070" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72722000" />
+    <option name="totallyTimeSpent" value="73283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="210" y="111" width="1477" height="939" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2508711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2543554" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -537,27 +427,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yay/present.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yay/balls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="20" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yay/fav.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/yay/present.py" />
+    <entry file="file://$PROJECT_DIR$/yay/balls.py" />
+    <entry file="file://$PROJECT_DIR$/yay/fav.py" />
     <entry file="file://$PROJECT_DIR$/Ex2019/sunuke_alt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -566,13 +438,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ABS.py" />
-    <entry file="file://$PROJECT_DIR$/yay/ab_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/yay/ab_string.py" />
     <entry file="file://$PROJECT_DIR$/ABC128/ringo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -642,22 +508,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC128/switches.py">
+    <entry file="file://$PROJECT_DIR$/diverta2019_2/ball_dist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC131/security.py">
+    <entry file="file://$PROJECT_DIR$/paiza/1.txt" />
+    <entry file="file://$PROJECT_DIR$/paiza/4.txt" />
+    <entry file="file://$PROJECT_DIR$/paiza/sensor.py" />
+    <entry file="file://$PROJECT_DIR$/paiza/sens.py" />
+    <entry file="file://$PROJECT_DIR$/ABC131/megalo_mania.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="76">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC131/bite.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ABC131/division.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -666,19 +533,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC131/megalo_mania.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diverta2019_2/ball_dist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/ABC131/bite.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ABC131/rect.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -687,24 +543,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paiza/1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paiza/4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paiza/sensor.py">
+    <entry file="file://$PROJECT_DIR$/ABC131/security.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paiza/sens.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ABC128/switches.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
