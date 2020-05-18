@@ -1,0 +1,1 @@
+ten_mods = [10**i % 13 for i in range(0, 10**5+1)]
